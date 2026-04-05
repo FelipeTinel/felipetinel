@@ -23,9 +23,14 @@
 <br>
 <br>
 <br>
-<p><strong>Languages that I uses:</strong></p>
+<p><strong>Technologies that i uses:</strong></p>
   <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />         
+  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
+  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+          
+        
+          
 
 <br>
 <br>
