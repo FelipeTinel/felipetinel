@@ -9,7 +9,7 @@
   
 # Felipe Tinel 
 <br>
-<h2><strong>I'm a in progress Back-End developer, improving everyday my Python knowledges and software engineer skills. 💡</strong></h2>
+<h2><strong>I'm a in progress developer, improving everyday my programming knowledges and software engineer skills.</strong></h2>
 <br>
 <br>
 <br>
