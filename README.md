@@ -43,7 +43,9 @@
 <br>
 <br>
 
-#### <em>Over time, projects will be added here. I'm continuously improving. </em>
+#### <em>Projects: </em> </br>
+AI bias Test system - https://github.com/FelipeTinel/test-system-AI-bias.git </br>
+AlertAI - https://github.com/FelipeTinel/AlertAI.git
 
 <br>
 <br>
