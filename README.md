@@ -9,7 +9,7 @@
   
 # Felipe Tinel 
 <br>
-<h2><strong>I'm a in progress developer, improving everyday my programming knowledges and software engineer skills.</strong></h2>
+<h2><strong>Computer Science student focused on Backend Development, Cloud Computing and Robotics. Passionate about building scalable applications with Python, FastAPI and AWS.</strong></h2>
 <br>
 <br>
 <br>
