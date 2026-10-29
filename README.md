@@ -9,7 +9,7 @@
   
 # Felipe Tinel 
 <br>
-<h2><strong>Computer Science student focused on Backend Development, Cloud Computing and Robotics. Passionate about building scalable applications with Python, FastAPI and AWS.</strong></h2>
+<h2><strong>Tech student focused on Backend Development and Cloud Computing. Building scalable applications with Python, FastAPI and AWS.</strong></h2>
 <br>
 <br>
 <br>
@@ -43,9 +43,6 @@
 <br>
 <br>
 
-## <em>Projects: </em> </br>
- ### AI bias Test system - https://github.com/FelipeTinel/test-system-AI-bias.git </br>
-### AlertAI - https://github.com/FelipeTinel/AlertAI.git
 
 <br>
 <br>
