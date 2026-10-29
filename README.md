@@ -9,7 +9,7 @@
   
 # Felipe Tinel 
 <br>
-<h2><strong>Tech student focused on Backend Development and Cloud Computing. Building scalable applications with Python, FastAPI and AWS.</strong></h2>
+<h2><strong>Tech student focused on Backend Development and Cloud Computing. Building applications with Python, FastAPI and AWS.</strong></h2>
 <br>
 <br>
 <br>
@@ -20,37 +20,6 @@
     <img height=40 width=120 src=https://img.shields.io/badge/LinkedIn-0077B5? />
   </a>
 
-<br>
-<br>
-<br>
-          
-        
-          
-
-<br>
-<br>
-<br>
-<br>
-<br>
- 
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-# ACSO Volunteer 🤖
-<br>
-
-<p><strong>I'm a volunteer at a robotics research center, working on an intelligent domestic robot with an incredible team.</strong></p>
 
 
 
